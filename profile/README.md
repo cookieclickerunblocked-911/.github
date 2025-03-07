@@ -47,13 +47,13 @@ The developers have packed this installment with exciting new features that enha
 
 Want to bake billions of cookies efficiently? Follow these tips:
 
-1️⃣ Clicker vs. Idle Playstyles
+### 1️⃣ Clicker vs. Idle Playstyles
 
 - If you're an active player, focus on clicking upgrades and golden cookie bonuses.
 
 - If you prefer idle gameplay, invest in automated structures like Grandmas and Cookie Farms.
 
-2️⃣ Prioritize Upgrades
+### 2️⃣ Prioritize Upgrades
 
 - Always buy Cursor Multipliers early on.
 
@@ -61,7 +61,7 @@ Want to bake billions of cookies efficiently? Follow these tips:
 
 - Keep an eye on Golden Cookies for short-term boosts.
 
-3️⃣ Experiment with Strategies
+### 3️⃣ Experiment with Strategies
 
 - Find the perfect balance between manual clicking and idle production.
 
